@@ -3,7 +3,7 @@
 <p align="center">Exploring Programming & Improving User Experience</p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubtasim36&label=Profile%20views&color=0e75b6&style=flat" alt="Mubtasim36" /> </p>
----
+
 
 <table>
   <tr>

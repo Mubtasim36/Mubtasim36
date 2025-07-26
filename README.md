@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Al Mubtasim</h1>
 <h3 align="center">🎓 CSE Student | 💻 Graphic Designer | 🎨 UI/UX Enthusiast</h3>
 <p align="center">Exploring Programming & Improving User Experience</p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubtasim36&label=Profile%20views&color=0e75b6&style=flat" alt="Mubtasim36" /> </p>
+<img align="right" alt="Designing" width="400" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" >
 
 
 <table>
@@ -17,6 +16,7 @@
 - ⚡ Fun fact: **I love playing games & doing graphic design!**
 
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubtasim36&label=Profile%20views&color=0e75b6&style=flat" alt="Mubtasim36" /> </p>
 
 <h3>🌐 Connect with me:</h3>
 

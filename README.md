@@ -9,7 +9,7 @@
     <!-- Left Column -->
     <td width="60%" valign="top">
 
-- 💡 I’m currently learning **UI/UX**  
+-  💡 I’m currently learning **UI/UX**  
 - 🎨 Currently improving skills in **Figma** for UI design  
 - 💬 Ask me about **C / C++ / Java / Python / Figma**  
 - 📫 How to reach me: [mubtasim.bhuban@gmail.com](mailto:mubtasim.bhuban@gmail.com)  

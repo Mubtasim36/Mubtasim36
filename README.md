@@ -11,7 +11,7 @@
 
 -  💡 I’m currently learning **UI/UX**  
 - 🎨 Currently improving skills in **Figma** for UI design  
-- 💬 Ask me about **C / C++ / Java / Python / Figma**  
+- 💬 Ask me about **UIUX / C++ / R / Python / Figma**  
 - 📫 How to reach me: [mubtasim.bhuban@gmail.com](mailto:mubtasim.bhuban@gmail.com)  
 - ⚡ Fun fact: **I love playing games & doing graphic design!**
 

@@ -31,7 +31,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" height="35" />
   </a>
   <a href="https://www.behance.net/almubtasim" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="Behance" height="35" />
+    <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg](https://static.vecteezy.com/system/resources/previews/065/386/497/non_2x/behance-circle-logo-icon-be-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="Behance" height="35" />
   </a>
   <a href="https://discordapp.com/users/aethe3636" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" alt="Discord" height="35" />

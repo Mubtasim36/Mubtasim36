@@ -42,7 +42,7 @@
 
 <h3>🚀 Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=cpp,c-sharp,r,python,figma,ps" />
 </p>
 
   </tr>

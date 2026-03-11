@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mubtasim36&label=Profile+Views&color=0e75b6&style=flat-square" />
-  <a href="https://www.linkedin.com/in/almubtasim/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:mubtasim.bhuban@gmail.com">
@@ -36,8 +35,6 @@ Hobbies:  Gaming 🎮 · Graphic Design 🎨 · Exploring Tech 🚀
 - ⚡ Fun fact: I think great design is 80% problem-solving, 20% aesthetics
 
 <br clear="right"/>
-
----
 ### 🌐 Connect With Me
 
 <p>

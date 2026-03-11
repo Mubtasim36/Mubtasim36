@@ -1,62 +1,82 @@
-<h1 align="center">Hi, I'm Al Mubtasim</h1>
-<h3 align="center">🎓 CSE Student | 💻 Graphic Designer | 🎨 UI/UX Enthusiast</h3>
-<p align="center">Exploring Programming & Improving User Experience</p>
-<img align="right" alt="Designing" width="400" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" >
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0e75b6&height=200&section=header&text=Al%20Mubtasim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20·%20UI%2FUX%20Designer%20·%20Graphic%20Artist&descAlignY=60&descColor=7eb8f7" />
 
-<table>
-  <tr>
-    <!-- Left Column -->
-    <td width="60%" valign="top">
+</div>
 
--  💡 I’m currently learning **UI/UX**  
-- 🎨 Currently improving skills in **Figma** for UI design  
-- 💬 Ask me about **UIUX / C++ / R / Python / Figma**  
-- 📫 How to reach me: [mubtasim.bhuban@gmail.com](mailto:mubtasim.bhuban@gmail.com)  
-- ⚡ Fun fact: **I love playing games & doing graphic design!**
-
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubtasim36&label=Profile%20views&color=0e75b6&style=flat" alt="Mubtasim36" /> </p>
-
-<h3>🌐 Connect with me:</h3>
-
-<p>
-  <a href="https://www.linkedin.com/in/almubtasim/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" height="35" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mubtasim36&label=Profile+Views&color=0e75b6&style=flat-square" />
+  <a href="https://www.linkedin.com/in/almubtasim/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://www.facebook.com/Bhuban36" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1280px-Facebook_f_logo_%282019%29.svg.png" alt="Facebook" height="35" />
+  <a href="mailto:mubtasim.bhuban@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/im_bhubann" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" height="35" />
+  <a href="https://github.com/Mubtasim36/Al_Mubtasim_CV/raw/main/AL_MUBTASIM_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-Resume-28a745?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/almubtasim" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg](https://static.vecteezy.com/system/resources/previews/065/386/497/non_2x/behance-circle-logo-icon-be-app-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="Behance" height="35" />
-  </a>
-  <a href="https://discordapp.com/users/aethe3636" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" alt="Discord" height="35" />
-  </a>
-</p>
+</div>
 
 <br/>
 
-<h3>🚀 Languages and Tools:</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,r,python,figma,ps" />
-</p>
+<img align="right" alt="Creative Coding" width="360" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />
 
-  </tr>
-</table>
+### 👋 About Me
+```yaml
+name:     Al Mubtasim
+role:     CSE Student + UI/UX Designer
+learning: Figma · Design Systems · Frontend
+based_in: Bangladesh
+hobbies:  Gaming 🎮 · Graphic Design 🎨 · Exploring Tech 🚀
+```
+
+- 🎓 Studying **Computer Science & Engineering**
+- 🎨 Building polished UI with **Figma** and design thinking
+- 💬 Happy to chat about **UI/UX · C++ · Python · R · Figma**
+- ⚡ Fun fact: I think great design is 80% problem-solving, 20% aesthetics
+
+<br clear="right"/>
 
 ---
 
-## 📊 My GitHub Stats
+### 🌐 Connect With Me
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Mubtasim36&show_icons=true&theme=tokyonight" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubtasim36&layout=compact&theme=tokyonight" />
+<p>
+  <a href="https://www.linkedin.com/in/almubtasim/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://www.behance.net/almubtasim" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.facebook.com/Bhuban36" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+  </a>&nbsp;
+  <a href="https://discordapp.com/users/aethe3636" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-aethe3636-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubtasim36&theme=tokyonight" />
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,r,figma,ps&theme=dark" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Mubtasim36&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7eb8f7&icon_color=0e75b6" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubtasim36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7eb8f7" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubtasim36&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=7eb8f7&currStreakLabel=7eb8f7" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=100&section=footer" />

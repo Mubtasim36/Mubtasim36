@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0e75b6&height=200&section=header&text=Al%20Mubtasim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20·%20UI%2FUX%20Designer%20·%20Graphic%20Artist&descAlignY=60&descColor=7eb8f7" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0e75b6&height=200&section=header&text=Al%20Mubtasim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20·%20UI%2FUX%20Designer%20·&descAlignY=60&descColor=7eb8f7" />
 
 </div>
 
@@ -23,11 +23,11 @@
 
 ### 👋 About Me
 ```yaml
-name:     Al Mubtasim
-role:     CSE Student + UI/UX Designer
-learning: Figma · Design Systems · Frontend
-based_in: Bangladesh
-hobbies:  Gaming 🎮 · Graphic Design 🎨 · Exploring Tech 🚀
+Name:     Al Mubtasim
+Role:     CSE Student + UI/UX Designer
+Learning: Figma · Design Systems · Frontend
+Based_in: Bangladesh
+Hobbies:  Gaming 🎮 · Graphic Design 🎨 · Exploring Tech 🚀
 ```
 
 - 🎓 Studying **Computer Science & Engineering**
@@ -38,24 +38,22 @@ hobbies:  Gaming 🎮 · Graphic Design 🎨 · Exploring Tech 🚀
 <br clear="right"/>
 
 ---
-
 ### 🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/almubtasim/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>&nbsp;
   <a href="https://www.behance.net/almubtasim" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="35"/>
   </a>&nbsp;
   <a href="https://www.facebook.com/Bhuban36" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
   </a>&nbsp;
   <a href="https://discordapp.com/users/aethe3636" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-aethe3636-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
   </a>
 </p>
-
 ---
 
 ### 🛠️ Languages & Tools

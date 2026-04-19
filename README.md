@@ -11,7 +11,7 @@
   <a href="mailto:mubtasim.bhuban@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://github.com/Mubtasim36/Al_Mubtasim_CV/raw/main/AL_MUBTASIM_Resume.pdf](https://github.com/Mubtasim36/Al_Mubtasim_CV/blob/main/AL_MUBTASIM_Resume.pdf)">
+  <a href="https://github.com/Mubtasim36/Al_Mubtasim_CV/raw/main/AL_MUBTASIM_Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Resume-28a745?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>

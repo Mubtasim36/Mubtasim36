@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:0e75b6&height=210&section=header&text=Al%20Mubtasim&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=UI%2FUX%20Designer%20%C2%B7%20CSE%20Undergraduate%20%C2%B7%20Product%20%26%20Interface%20Design&descAlignY=60&descColor=8cc8ff" width="100%" />

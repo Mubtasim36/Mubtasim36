@@ -1,7 +1,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:0e75b6&height=210&section=header&text=Al%20Mubtasim&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=UI%2FUX%20Designer%20%C2%B7%20CSE%20Undergraduate%20%C2%B7%20Product%20%26%20Interface%20Design&descAlignY=60&descColor=8cc8ff" width="100%" />
 
 ### UI/UX Designer focused on usable, scalable and developer-friendly digital experiences.
 
@@ -21,7 +20,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/Mubtasim36/Al_Mubtasim_CV/raw/main/AL_MUBTASIM_Resume.pdf">
+  <a href="https://github.com/Mubtasim36/Al_Mubtasim_CV/raw/main/Al_Mubtasim_CV_UI-UX_Design.pdf">
     <img src="https://img.shields.io/badge/Resume-Download%20CV-28A745?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Mubtasim36&label=Profile%20Views&color=0e75b6&style=flat-square" />
